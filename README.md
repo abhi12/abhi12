@@ -1,14 +1,12 @@
 # Hi, I'm Abhinav 👋
 
-Lead Frontend / Full Stack Engineer with 9+ years of experience building large-scale, high-performance web applications and scalable platforms.
-
-Currently working at **Spheron Network**, focusing on frontend architecture, design systems, SDK development, and performance optimization across Web2 and Web3.
+Lead Frontend / Full Stack Engineer with expertise in building large-scale, high-performance web applications and scalable platforms.
 
 ---
 
 ## About
 
-- Lead Full Stack Developer @ Spheron Network  
+- Lead Full Stack Developer @ Spheron, previously with MakeMyTrip and BookMyShow
 - Built and open-sourced JavaScript SDKs & component libraries  
 - Led teams and defined engineering standards  
 - Strong focus on performance, scalability, and clean architecture  
